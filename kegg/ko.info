@@ -1,0 +1,18 @@
+orthology        KEGG Orthology Database
+ko               Release 95.0+/07-17, Jul 20
+                 Kanehisa Laboratories
+                 23,439 entries
+
+linked db        pathway
+                 brite
+                 module
+                 genes
+                 <org>
+                 vg
+                 ag
+                 reaction
+                 rclass
+                 enzyme
+                 disease
+                 drug
+                 pubmed

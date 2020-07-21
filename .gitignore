@@ -1,0 +1,11 @@
+data
+.ipynb_checkpoints
+__pycache__
+*.pyc
+*.pyo
+*.out
+.nextflow*
+work
+.access_token
+.git*
+results
