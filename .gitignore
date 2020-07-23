@@ -9,3 +9,6 @@ work
 .access_token
 .git*
 results
+*.xlsx
+*.xlsx_*
+metabolon2kegg_*/
